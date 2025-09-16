@@ -2,4 +2,4 @@ After creating and pulling the repository, make sure to run `npm install` as thi
 
 Additionally, you can run `npx webpack serve` to run a local development server that updates anytime files in src are saved.
 
-I recommend using a terminal multiplexer to run your local server as it's much easier to have all your code and your development server in one place.
+I recommend using a terminal multiplexer (e.g., tmux) to run your local server as it's much easier to have all your code and development server in one place.

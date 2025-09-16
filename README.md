@@ -5,8 +5,8 @@ Additionally, you can run `npx webpack serve` to run a local development server 
 I recommend using a terminal multiplexer (e.g., tmux) to run your local server as it's much easier to have all your code and development server in one place.
 
 ## Install Instructions:
-1. `git clone https://github.com/m-queszel/web-development-template.git`
-2. `mv web-development-template <new-directory-name>`
+1. `git clone https://github.com/m-queszel/web-development-template.git` to clone the repository
+2. `mv web-development-template <new-directory-name>` to rename your directory from the default
 3. Enter your new directory (e.g., `cd <directory-name>`) and delete the existing .git folder using `rm -rf .git`
 4. `npm install` to install dependencies
    
